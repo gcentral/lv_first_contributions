@@ -12,5 +12,5 @@ cmc-eschliepe
 
 CaseyZS
 
-MGI
+MGI descriptive
 ---------------------------------
