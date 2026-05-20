@@ -16,7 +16,5 @@ cmc-eschliepe
 
 CaseyZS
 
-Casey May
-
-gjacob
+DAN!!1!
 ---------------------------------
